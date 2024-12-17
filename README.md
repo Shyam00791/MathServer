@@ -150,7 +150,8 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![image](https://github.com/user-attachments/assets/6291bfc9-dde4-4494-aa59-340ca8a7ec56)
+![image](https://github.com/user-attachments/assets/4c19d066-7901-4a6b-b40b-9b783684619a)
+
 
 
 ## HOMEPAGE:
